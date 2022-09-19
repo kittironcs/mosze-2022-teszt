@@ -16,7 +16,7 @@ int main()
     }    
     std::cout << "Atlag szamitasa: " << std::endl;
     int atlag;
-    for (int i = 0; i < N_ELEMENTS, i++) /*itt vessző helyett pontosvessző*/
+    for (int i = 0; i < N_ELEMENTS, i++) /* itt vessző helyett pontosvessző*/
     {
         atlag += b[i] /*sor végére pontosvessző*/
     }
